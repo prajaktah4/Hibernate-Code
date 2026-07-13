@@ -1,4 +1,5 @@
-##HIBERNATE
+## HIBERNATE
+
 Hibernate is a Java-based ORM (Object-Relational Mapping) framework that helps developers interact with a database using Java objects instead of writing complex SQL queries.
 
 It automatically maps Java classes (objects) to database tables, and Java fields (variables) to table columns — making database operations like insert, update, delete, and fetch much easier.
